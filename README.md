@@ -25,4 +25,5 @@
 ## 開発補助プラグイン
 |名称|最新ver|公開日|更新日|概要|  
 |--- |:-:|:-:|:-:|---|  
+|[SAN_FileDeleter](https://github.com/rev2nym/SAN_FileDeleter)|1.1.1|2016/07/05|2016/12/16|未使用の素材ファイルを削除して容量削減を図ります。|  
 |[SAN_ScriptImporter](https://github.com/rev2nym/SAN_ScriptImporter)|1.0.0|2018/08/25|2018/08/25|プラグインやスクリプトの前提スクリプトを読み込みます。RPGツクールMVのプラグイン機能において`import`文のような機能を代替することが目的です。|  
