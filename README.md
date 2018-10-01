@@ -22,6 +22,11 @@
 |--- |:-:|:-:|:-:|---|  
 |[SAN_AnalogStick](https://github.com/rev2nym/SAN_AnalogStick)|1.0.0|2017/03/01|2017/03/01|ゲームパッドのアナログスティックの入力値を利用可能にします。|  
 
+## コアスクリプト改善・修正プラグイン
+|名称|最新ver|公開日|更新日|概要|  
+|--- |:-:|:-:|:-:|---|  
+|[SAN_Imp_SkipParallelEventPreload](https://github.com/rev2nym/SAN_Imp_SkipParallelEventPreload)|1.0.0|2018/10/01|2018/10/01|並列イベントの画像プリロード処理をスキップすることで処理速度の改善を図ります。|  
+
 ## 開発補助プラグイン
 |名称|最新ver|公開日|更新日|概要|  
 |--- |:-:|:-:|:-:|---|  
