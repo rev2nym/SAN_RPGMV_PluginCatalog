@@ -27,6 +27,7 @@
 |--- |:-:|:-:|:-:|---|  
 |[SAN_Imp_SkipParallelEventPreload](https://github.com/rev2nym/SAN_Imp_SkipParallelEventPreload)|1.0.0|2018/10/01|2018/10/01|並列イベントの画像プリロード処理をスキップすることで処理速度の改善を図ります。|  
 |[SAN_Imp_ColorCache](https://github.com/rev2nym/SAN_Imp_ColorCache)|1.0.0|2018/10/01|2018/10/01|色データの取得結果をキャッシュ化することでゲームの処理速度の改善を図ります。|  
+|[SAN_Fix_SeBuffers](https://github.com/rev2nym/SAN_Fix_SeBuffers)|1.0.0|2018/10/08|2018/10/08|複数の演奏中のSEを正常に停止できない不具合を修正します。|  
 
 ## 開発補助プラグイン
 |名称|最新ver|公開日|更新日|概要|  
